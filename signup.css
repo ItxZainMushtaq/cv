@@ -1,0 +1,24 @@
+body{
+  background-color: #c7f0db;
+  font-size: 1.5rem;
+
+}
+label{ color: #003f5c;
+}
+h1{
+  text-align: center;
+  font-size: 4rem;
+  font-family: serif;
+  color: #003f5c;
+  margin-bottom: 0px;
+
+}
+h3{
+  text-align: center;
+  color: #003f5c;
+  margin-top: 10px;
+}
+img{
+  background-color: #fff3af;
+  margin-left: 700px;
+}
